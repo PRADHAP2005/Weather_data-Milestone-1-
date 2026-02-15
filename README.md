@@ -1,13 +1,13 @@
 Project Title
 
-Weather Data Cleaning and Preprocessing using Python & Pandas
+Weather Data Collection and Preprocessing using Python & Pandas
 
 *Project Description
 
-This project focuses on cleaning, preprocessing, and analyzing a structured weather dataset using Python.
+This project focuses on colecting, preprocessing, and analyzing a structured weather dataset using Python.
 The dataset contains weather-related parameters such as temperature, humidity, pressure, wind speed, rainfall, UV index, and visibility collected for multiple cities.
 
-The goal of this project is to:
+*The goal of this project is to:
 
 Load raw weather data from CSV files
 
@@ -21,7 +21,6 @@ Sort and organize the dataset
 
 Generate a cleaned dataset ready for analysis
 
-This project demonstrates practical data cleaning skills used in real-world Data Science and Data Analytics workflows.
 
 *Files
 
@@ -68,7 +67,7 @@ UV_Index
 
 Visibility_km
 
-*Data Cleaning Process
+*Data Process
 Step 1: Load Dataset
 df = pd.read_csv("Azure_Weather_2025_Extended.csv")
 
